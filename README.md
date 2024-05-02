@@ -3,15 +3,15 @@ Estimación de la inflación en México utilizando técnicas clásicas de Aprend
 
 
 ## Versiones y librerías utilizadas:
-Python 3.10.2
-lightgbm 4.3.0
-matplotlib 3.5.1
-numpy 1.22.3
-pandas 1.4.2
-seaborn 0.11.2
-sklearn 1.1.2
-statsmodels 0.13.2
-xgboost 2.0.3
+- Python 3.10.2
+- lightgbm 4.3.0
+- matplotlib 3.5.1
+- numpy 1.22.3
+- pandas 1.4.2
+- seaborn 0.11.2
+- sklearn 1.1.2
+- statsmodels 0.13.2
+- xgboost 2.0.3
 
 ## Modelos entrenados:
 
